@@ -1,0 +1,17 @@
+Company & CO
+Main Street, 5
+Newyorkshire
+Somewhere
+
+            JOB CHANGE
+
+
+Employee {full_name}, (ID: {ID}) born on {birthdate},
+hereby agrees to change the job title to {job_title}.
+
+This change is valid as of {position_from}
+
+Signature
+
+______________
+{full_name}
