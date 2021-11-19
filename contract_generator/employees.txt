@@ -1,0 +1,8 @@
+{'X12345' : {'ID': 'X12345', 'full_name': 'Jack Frank',
+            'birthdate': '1.1.1970' , 'job_title' : 'welder',
+            'position_from':'1.5.2015', 'contract_start':'1.2.2013',
+            'contract_end':'31.12.2020', 'salary': 123456},
+'X54321' : {'ID': 'X54321', 'full_name': 'Bob Doe',
+            'birthdate': '8.8.1971' , 'job_title' : 'machinist',
+            'position_from':'1.8.2016', 'contract_start':'1.8.2014',
+            'contract_end':'31.12.2021', 'salary': 23451}}

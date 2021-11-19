@@ -1,4 +1,5 @@
 /.idea/
+.gitignore
 /prime_numbers.py
 /a_scratch.py
 /find_file.py

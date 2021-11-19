@@ -1,0 +1,18 @@
+Company & CO
+Main Street, 5
+Newyorkshire
+Somewhere
+
+            CONTRACT PROLONGATION
+
+
+Employee {full_name}, (ID: {ID}) born on {birthdate},
+hereby agrees to change the employment contract
+termination to {contract_end}.
+
+This change is performed with immediate validity.
+
+Signature
+
+______________
+{full_name}

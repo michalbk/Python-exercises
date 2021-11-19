@@ -1,0 +1,18 @@
+Company & CO
+Main Street, 5
+Newyorkshire
+Somewhere
+
+            SALARY CHANGE
+
+
+Employee {full_name}, (ID: {ID}) born on {birthdate},
+has agreed to accept change of the salary amounting to
+{salary} dollars.
+
+The new salary shall be paid with the next payroll.
+
+Signature
+
+______________
+{full_name}
